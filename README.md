@@ -1,2 +1,2 @@
-# estochastics
-Python code for Brownian movement
+# Stochastics
+BM and related stochastics paths 
